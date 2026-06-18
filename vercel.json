@@ -1,4 +1,5 @@
 ﻿{
+  "version": 2,
   "builds": [
     {
       "src": "frontend/dist/**",
@@ -6,10 +7,6 @@
     }
   ],
   "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "https://ai-robotics-workshop-backend.vercel.app/api/"
-    },
     {
       "src": "/(.*)",
       "dest": "/index.html"
