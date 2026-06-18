@@ -112,22 +112,22 @@
 ## Screenshots
 
 ### Home Page
-![Home Page](images/home-page.png)
+![Home Page](./images/home-page.png)
 
 ### About Page
-![About Page](images/about-page.png)
+![About Page](./images/about-page.png)
 
 ### Services Page
-![Services Page](images/services-page.png)
+![Services Page](./images/services-page.png)
 
 ### Blog Page
-![Blog Page](images/blog-page.png)
+![Blog Page](./images/blog-page.png)
 
 ### Contact Page
-![Contact Page](images/contact-page.png)
+![Contact Page](./images/contact-page.png)
 
 ### Hero Section
-![Hero Section](images/hero-section.png)
+![Hero Section](./images/hero-section.png)
 
 ## Installation
 
